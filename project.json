@@ -1,0 +1,39 @@
+{
+	"description" : "更新 v1.0",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"customcolor" : 
+			{
+				"text" : "User accent",
+				"type" : "color",
+				"value" : "1 1 1"
+			},
+
+			"customimage" : 
+			{
+				"text" : "User image",
+				"type" : "file"
+			},
+			"customimage1" : 
+			{
+				"text" : "DIY",
+				"type" : "file"
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "1 0.6470588235294118 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"title" : "滑稽桌面",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : 824950508
+}
